@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @norlynpiquero
 - 👀 I’m interested in hiking, different rides in amusement parks, trying out new restaurants, learning new technologies, trying out new things and so much more.
-- 🌱 I’m currently learning Python
 - 📫 You can reach me at this email address norlyn.piquero@gmail.com
 
 <!---
